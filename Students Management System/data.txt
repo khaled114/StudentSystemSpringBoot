@@ -1,0 +1,4 @@
+4, Khaled, Hashimi, 1123243.0
+2, Khaled, Hashimi, 70.0
+1, Majed, Hashimi, 81.7
+3, Mike, Jones, 92.4
